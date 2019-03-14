@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPSTrackerG2</string>
+    <string name="google_maps_key" translatable="false">
+       AIzaSyD4s6uejs22Rvv9lgAt6DO5TTPSsAVZXSI
+   </string>
+    <string name="warning">warning</string>
+    <string name="location_explanation">please allow app to use your location to show nearest firends</string>
+    <string name="ok">ok</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error">Error loading player</string>
+</resources>
